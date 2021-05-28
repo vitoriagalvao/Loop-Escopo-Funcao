@@ -1,3 +1,3 @@
-#Escopo, Loop e Função
+## Escopo, Loop e Função
 
-## Ao desenvolver os exercicios pude colocar em pratica os cenceitos de Escopo, Loop e repetição!
+# Ao desenvolver os exercicios pude colocar em pratica os cenceitos de Escopo, Loop e repetição!
