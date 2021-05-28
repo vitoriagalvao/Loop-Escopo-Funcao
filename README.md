@@ -1,2 +1,3 @@
-exercicio1.js  exercicio3.js  exercicio5.js
-exercicio2.js  exercicio4.js  README.md
+#Escopo, Loop e Função
+
+## Ao desenvolver os exercicios pude colocar em pratica os cenceitos de Escopo, Loop e repetição!
